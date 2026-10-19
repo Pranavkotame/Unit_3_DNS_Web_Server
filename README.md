@@ -44,7 +44,6 @@ packet loss, and the website opened successfully on PC0 via
 | `NPC_Unit_3_Pranav_Kotame.pdf` | Full practical report (submission copy) |
 | `NPC_Unit_3_DNS_Web_Server.pkt` | Cisco Packet Tracer project file |
 | `screenshots/` | Real Packet Tracer screenshots (topology, ping, website) |
-| `build_pdf.py` | Script used to generate the PDF report |
 | `logical_topology.png` | Logical topology diagram used in the report |
 
 > The images in `screenshots/` are genuine captures from Cisco Packet Tracer 9.0.1.
